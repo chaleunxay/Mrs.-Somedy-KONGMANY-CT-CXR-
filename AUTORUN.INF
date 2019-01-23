@@ -1,0 +1,3 @@
+[autorun]
+OPEN=VIEWER\ViewDIR.EXE
+ICON=VIEWER\ViewDIR.EXE,0
